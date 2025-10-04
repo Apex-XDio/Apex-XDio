@@ -1,15 +1,15 @@
 ### (づ ◕‿◕ )づ Hello There 👻
 # I'm [ApexDio]! 👋
 
-I'm a **student programmer**
-I can speak **English**, **Cantonese**, **Chinese**
-I am currently learning **Japanese**
+- I'm a **student programmer**
+- I can speak **English**, **Cantonese**, **Chinese**
+- I am currently learning **Japanese**
 
 
 ---
 
 ##  About Me
-- 🤔 I'm a student learning to code.
+- 🤔 I'm a Student learning how to code
 - 💻 Currently studying **JavaScript** for web development, **Python** for scripting, and **Solidity** for smart contracts.
 
 ---
@@ -18,7 +18,7 @@ I am currently learning **Japanese**
 - **Languages**: JavaScript, Python, Solidity (beginner)
 - **Tools**: VS Code, Git, Node.js , Remix, MetaMask
 - **Learning**: React, Django, Ethereum smart contracts
-- **Interests**: Web Development, Blockchain, Automation
+- **Interests**: Web Development, Blockchain, Scripting
 
 ---
 

@@ -4,6 +4,7 @@
 - I'm a **student programmer**
 - I can speak **English**, **Cantonese**, **Chinese**
 - I am currently learning **Japanese**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
